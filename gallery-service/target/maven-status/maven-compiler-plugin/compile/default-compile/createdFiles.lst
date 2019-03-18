@@ -1,0 +1,4 @@
+com/example/galleryservice/entities/Gallery.class
+com/example/galleryservice/GalleryServiceApplication$RestTemplateConfig.class
+com/example/galleryservice/controller/HomeController.class
+com/example/galleryservice/GalleryServiceApplication.class
